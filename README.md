@@ -54,7 +54,7 @@ regularizadas e não lineares.
 
 ## 📁 Estrutura do Repositório
 automoveis-regressao-ml/
-- Automoveis_Regressao_Comparacao_Profissional_v2.ipynb
+- Automoveis.ipynb
 - README.md
 
 ## 📌 Observações
